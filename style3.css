@@ -116,7 +116,7 @@ nav a:hover ,
   animation: animate-gradient 2.5s linear infinite;
 }
 .hero h1{
-  margin-top: 30px;
+  margin-top: 10px;
   font-size: 60px;
   text-transform: uppercase;
   background:linear-gradient(to right, #FF0000, #FF8C00, #FFFF00, #483D8B, #FF0000, #FF0000);
